@@ -1,4 +1,4 @@
-# Get Started with ownCloud
+## Get Started with ownCloud
 
 ownCloud is an open source cloud platform where you can securely store and share files on desktop or mobile. You can customize your deployment configurations depending on the hardware, database systems, and apps that you choose to use with it. 
 
